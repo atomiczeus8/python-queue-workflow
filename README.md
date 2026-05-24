@@ -1,5 +1,3 @@
-# python-queue-workflow
-
 # ⏳ Python Queue Workflow Implementation
 
 A lightweight, clean console demonstration of a bounded **Queue** data structure implemented using pure Python. This project highlights foundational data handling built around the **FIFO (First In, First Out)** structural principle.
